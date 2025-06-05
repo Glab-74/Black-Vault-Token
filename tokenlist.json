@@ -1,0 +1,19 @@
+{
+  "name": "Black Vault Token List",
+  "timestamp": "2025-06-05T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xb04234aa25f9b116c827D4ad6E4CC9973361Dcf4",
+      "name": "Black Vault",
+      "symbol": "BKV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Glab-74/Black-Vault-Token/main/logo.png"
+    }
+  ]
+}
